@@ -21,17 +21,10 @@ Developed as a summer training project to bridge the gap between static web desi
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML5, CSS3, JavaScript (ES6+) / React 
-* **API:** [Insert Weather API Name, e.g., OpenWeatherMap API]
+* **API:** [OpenWeatherMap API]
 * **Deployment:** GitHub Pages / Vercel / Netlify (Update with your deployment platform)
 
 ## 🚀 Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-You will need a modern web browser and a code editor (like VS Code). If you are running this in a Node environment, ensure you have Node.js installed.
-
-* npm
-  ```sh
-  npm install npm@latest -g
